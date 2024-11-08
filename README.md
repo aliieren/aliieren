@@ -13,9 +13,8 @@
 - 📌 **Not Tutma Uygulaması:** C dili ile not tutmayı kolaylaştıran bir uygulama tasarladım.
 - 📌 **Resimli Kayar Web Site Kodu:** Web sitesinde otomatik olarak sonsuz bir döngüde ve belirli bir hızda kayan resim şeridi yaptım.
 
-💬 **Bana Ulaşın:**  
-- [LinkedIn](https://linkedin.com/in/ali-eren-sariarslan)  
-- [E-posta](alierensariarslan@gmail.com)
+
+aliieren
 
 <!---
 aliieren/aliieren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
