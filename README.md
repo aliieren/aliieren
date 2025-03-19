@@ -12,7 +12,7 @@
 📝 **Projeler**  
 - 📌 **Not Tutma Uygulaması:** C dili ile not tutmayı kolaylaştıran bir uygulama tasarladım.
 - 📌 **Resimli Kayar Web Site Kodu:** Web sitesinde otomatik olarak sonsuz bir döngüde ve belirli bir hızda kayan resim şeridi yaptım.
-- 📌 **Iphone Home Kit** Iphone da bulunan Home Kit uygulamasında çalışabilen uzaktan kontrollü bir bir lamba açma/kapatma. işlemini yapan bir proje yaptım.
+- 📌 **Iphone Home Kit:** Iphone da bulunan Home Kit uygulamasında çalışabilen uzaktan kontrollü bir bir lamba açma/kapatma. işlemini yapan bir proje yaptım.
 
 
 aliieren
